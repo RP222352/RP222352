@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Panja</h1>
-<h3 align="center">💻 MCA Graduate | Aspiring Software Engineer | AI/ML Engineer | Passionate about Java, Python, SQL & Web Development</h3>
+<h3 align="center">💻 MCA Graduate | Aspiring Software Engineer | AI/ML Engineer | Passionate about Java, Python, SQL & Website Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp222352&label=Profile%20views&color=0e75b6&style=flat" alt="rp222352" /> </p>
 
