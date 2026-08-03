@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahulpanja00" target="blank"><img src="https://img.shields.io/twitter/follow/rahulpanja00?logo=twitter&style=for-the-badge" alt="rahulpanja00" /></a> </p>
 
-- 🔭 I’m currently working on **Banking and University Website and integrating AI**
+- 🔭 I’m currently working on **I'm currently working on a Retrieval-Aware Medical Hallucination Detection and Trust Calibration system for RAG-based Healthcare LLMs and Early Student Academic Risk Prediction using Machine Learning and explainable AI**
 
-- 🌱 I’m currently learning **MERN, Cloud Technologies**
-
-- 👯 I’m looking to collaborate on [A Real Time Accident Detection System and Automated Emergency System using Machine Learning and Video Analytics](https://drive.google.com/file/d/1gD-XO52kEslfpGDz9AQfS2a1Z24IxDt_/view?usp=drive_link)
+- 🌱 I’m currently learning **LLMs, RAG, Trustworthy AI, AI Agents, Full-Stack Development and Applied Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RP222352](https://github.com/RP222352)
 
