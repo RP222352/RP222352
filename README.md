@@ -22,7 +22,7 @@
 
 - 📫 Reach me at **rahulpanja.pg2023@gmail.com** | **panjarahul00@gmail.com**
 
-- 📄 Know more about my **[Professional Experience & Resume](https://drive.google.com/file/d/1Kz6GHmo4-KKz817BsDA5Oc7MntjjdjnR/view?usp=sharing)**
+- 📄 Know more about my **[Professional Experience & Resume](https://drive.google.com/file/d/1MpZiYVuuRIGaZbhJbF3ghphsqh1mzirl/view?usp=sharing)**
 
 ---
 
