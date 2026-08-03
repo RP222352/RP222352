@@ -203,18 +203,16 @@ Developing a Machine Learning and **Explainable AI (XAI)** framework for early i
 
 ## 📊 GitHub Statistics
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RahulPanja&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=RP222352&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Rahul's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPanja&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RP222352&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
